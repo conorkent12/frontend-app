@@ -1,0 +1,6 @@
+{
+    "name": "Sample Object",
+    "description": "This is a basic JSON object.",
+    "version": 1.0,
+    "active": true
+}
